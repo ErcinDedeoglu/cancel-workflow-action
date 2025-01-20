@@ -1,0 +1,1 @@
+repomix --include "**" --output "repopack.yml"
